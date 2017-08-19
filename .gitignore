@@ -1,3 +1,2 @@
 .vagrant/*
-/JS Weird Parts/nbproject/private/
-/nbproject/*
+nbproject/*
